@@ -16,7 +16,7 @@
 
 ---------------
 
-<h1 align="center">🏰 Dark Castle Theme</img></h1>
+<h1 align="center">🏰 Dark Castle Theme 🌲</img></h1>
 
 **Dark Castle** is a sophisticated and elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
@@ -143,7 +143,7 @@ If you would like to contribute and port over **Dark Castle** to a missing platf
 4. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, I will move the repository under the **Dark Castle** main repository.
 
 > [!NOTE]
-> In the future, if the theme grows, I may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
+> In the future, if the project grows, I may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
 
 ## Project
 
