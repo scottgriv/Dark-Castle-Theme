@@ -1,10 +1,14 @@
 # Changelog
 
-## v1.0.0
+All notable changes to this project will be documented in this file.
 
-### Added or Changed
-- Added this changelog file :D
-- Initial Release of PRG
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-### Removed
-- N/A
+## [1.0.0] - 2024-05-11
+
+### Added
+
+- Official Release of Dark Castle Theme.
+
+[1.0.0]: https://github.com/scottgriv/Dark-Portals-Theme/releases/tag/v1.0.0

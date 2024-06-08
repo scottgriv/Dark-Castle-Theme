@@ -12,10 +12,10 @@ This file is used to connect this repository to the **PRG** project categorizati
 
 ## Project Information
 
-**Repository Tier:** Silver <br>
-**Technology:** Markdown, GitHub <br>
-**Category:** Public Template <br>
-**Order:** 19 <br>
+**Repository Tier:** Gold <br>
+**Technology:** Hex, RGB, HSL <br>
+**Category:** Multi-Platform Theme <br>
+**Order:** 6 <br>
 
 ## Parameters
 

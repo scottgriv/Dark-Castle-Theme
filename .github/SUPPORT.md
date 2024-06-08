@@ -38,7 +38,7 @@ For new issues, file your bug or feature request as a new Issue.
 
 ## Contributions
 
-See [`contributing.md`][contributing] on how to contribute.
+See [`CONTRIBUTING.md`][contributing] on how to contribute.
 
 ## License
 
@@ -56,7 +56,7 @@ See [`contributing.md`][contributing] on how to contribute.
 
 [xy]: https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem/66378#66378
 
-[chat]: https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/discussions
+[chat]: https://github.com/scottgriv/Dark-Castle-Theme/discussions
 
 [cs]: https://codesandbox.io
 

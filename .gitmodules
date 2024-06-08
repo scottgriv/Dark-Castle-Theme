@@ -1,0 +1,21 @@
+[submodule "vscode"]
+	path = themes/vscode
+	url = https://github.com/scottgriv/Dark-Castle-VSCode
+[submodule "obsidian"]
+	path = themes/obsidian
+	url = https://github.com/scottgriv/Dark-Castle-Obsidian
+[submodule "xcode"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-Xcode
+[submodule "notepad-plus-plus"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus
+[submodule "bbedit"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-BBEdit
+[submodule "warp"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-Warp
+[submodule "sketch"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-Sketch

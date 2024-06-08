@@ -1,4 +1,4 @@
-# Code of Conduct - PRG-Personal-Repository-Guidelines
+# Code of Conduct - Dark-Castle-Theme
 
 ## Our Pledge
 

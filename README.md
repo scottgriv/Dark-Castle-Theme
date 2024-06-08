@@ -9,79 +9,12 @@
     <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FFDD00?style=for-the-badge&logo=buymeacoffee&color=FFDD00" alt="BuyMeACoffee Badge" /></a>
     <br>
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines/releases" target="_blank"><img src="https://img.shields.io/badge/PRG-1.1.1-6236FF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkZGRkYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="PRG Version Badge" /></a>
-    <a href="https://prgoptimized.com" target="_blank">
-    <img src="https://img.shields.io/badge/PRG-Official_Website-680F7F?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkZGRkYiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="PRG Website" /></a>
     <a href="https://prgportfolio.com"><img src="https://img.shields.io/badge/PRG-Gold Project-FFD700?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjYuMDAwMDAwcHQiIGhlaWdodD0iMzQuMDAwMDAwcHQiIHZpZXdCb3g9IjAgMCAyNi4wMDAwMDAgMzQuMDAwMDAwIgogcHJlc2VydmVBc3BlY3RSYXRpbz0ieE1pZFlNaWQgbWVldCI+Cgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjAwMDAwMCwzNC4wMDAwMDApIHNjYWxlKDAuMTAwMDAwLC0wLjEwMDAwMCkiCmZpbGw9IiNGRkQ3MDAiIHN0cm9rZT0ibm9uZSI+CjxwYXRoIGQ9Ik0xMiAzMjggYy04IC04IC0xMiAtNTEgLTEyIC0xMzUgMCAtMTA5IDIgLTEyNSAxOSAtMTQwIDQyIC0zOCA0OAotNDIgNTkgLTMxIDcgNyAxNyA2IDMxIC0xIDEzIC03IDIxIC04IDIxIC0yIDAgNiAyOCAxMSA2MyAxMyBsNjIgMyAwIDE1MCAwCjE1MCAtMTE1IDMgYy04MSAyIC0xMTkgLTEgLTEyOCAtMTB6IG0xMDIgLTc0IGMtNiAtMzMgLTUgLTM2IDE3IC0zMiAxOCAyIDIzCjggMjEgMjUgLTMgMjQgMTUgNDAgMzAgMjUgMTQgLTE0IC0xNyAtNTkgLTQ4IC02NiAtMjAgLTUgLTIzIC0xMSAtMTggLTMyIDYKLTIxIDMgLTI1IC0xMSAtMjIgLTE2IDIgLTE4IDEzIC0xOCA2NiAxIDc3IDAgNzIgMTggNzIgMTMgMCAxNSAtNyA5IC0zNnoKbTExNiAtMTY5IGMwIC0yMyAtMyAtMjUgLTQ5IC0yNSAtNDAgMCAtNTAgMyAtNTQgMjAgLTMgMTQgLTE0IDIwIC0zMiAyMCAtMTgKMCAtMjkgLTYgLTMyIC0yMCAtNyAtMjUgLTIzIC0yNiAtMjMgLTIgMCAyOSA4IDMyIDEwMiAzMiA4NyAwIDg4IDAgODggLTI1eiIvPgo8L2c+Cjwvc3ZnPgo=" alt="Gold" /></a>
 </p>
 
 ---------------
 
-<h1 align="center"><img src="https://via.placeholder.com/22x22/FFD700/000000?text=+"> PRG Gold Tier Template</img></h1>
-
-<!-- Remove this block before you commit your README - this is for template reference purposes only -->
-<div align="center">
-<table>
-    <tr>
-        <td>
-            <div align="center">
-                <h3 align="center">What is this Template for?</h3>
-                <table>
-                    <tr>
-                        <td align="center">
-                            <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines"><img src="./docs/images/icon-rounded.png" width="100"></a>
-                            <br>
-                            <p>This Template is part of the <br><b><a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines">Personal Repository Guidelines (PRG)</a></b><br> repository categorization system.</p>
-                            <b>Visit the PRG Repository<br>to get started with PRG today.</b>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center">
-                            <a href="https://prgoptimized.com"><img src="./docs/images/icon-website-rounded.png" width="100"></a>
-                            <br>
-                            <p>Visit <b><a href="https://prgoptimized.com">The Official PRG Website</a></b><br> for more information.</p>
-                            <b>Submit a pull request to add your<br>PRG Portfolio to the PRG Showcase.</b>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        </td>
-        <td>
-            <div align="center">
-                <h3 align="center">Looking for other Tier Templates?</h3>
-                <table>
-                    <tr>
-                        <td align="center">
-                            <a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template"><img src="./docs/images/icon-platinum-rounded.png" width="100"></a>
-                            <br>
-                            <p><b><a href="https://github.com/scottgriv/PRG-Platinum-Tier-Template">Platinum Tier Template</a></b></p>
-                        </td>
-                        <td align="center">
-                        <p align="center"><i>You are here</i></p>
-                            <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template"><img src="./docs/images/icon-gold-rounded.png" width="100"></a>
-                            <br>
-                            <p><b><a href="https://github.com/scottgriv/PRG-Gold-Tier-Template">Gold Tier Template</a></b></p>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center">
-                            <a href="https://github.com/scottgriv/PRG-Silver-Tier-Template"><img src="./docs/images/icon-silver-rounded.png" width="100"></a>
-                            <br>
-                            <p><b><a href="https://github.com/scottgriv/PRG-Silver-Tier-Template">Silver Tier Template</a></b></p>
-                        </td>
-                        <td align="center">
-                            <a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template"><img src="./docs/images/icon-bronze-rounded.png" width="100"></a>
-                            <br>
-                            <p><b><a href="https://github.com/scottgriv/PRG-Bronze-Tier-Template">Bronze Tier Template</a></b></p>
-                        </td>
-                    </tr>
-                </table>
-            </div>
-        </td>
-    </tr>
-</table>
-</div>
-<!-- End Remove Block -->
+<h1 align="center">🏰 Dark Castle Theme</img></h1>
 
 > [!NOTE]
 > I will be using examples from my project [River Charts](https://github.com/scottgriv/River-Charts) throughout this `README` template.
@@ -222,9 +155,7 @@ This section should contain a list of steps for contributing to your project.
 
 ## Resources
 
-This section should contain a list of resources that you used to create your project.
-
-Below are some external resources I found helpful when creating **My Project**:
+Below are some external resources I found helpful when creating **Dark Castle**:
 
 - [Python](https://www.python.org/) - An interpreted, high-level and general-purpose programming language.
 - [Plotly](https://plotly.com/python/) - A Python graphing library that makes interactive, publication-quality graphs online.
@@ -232,8 +163,6 @@ Below are some external resources I found helpful when creating **My Project**:
 - [Pandas](https://pandas.pydata.org/) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 
 ## License
-
-This section should contain the license for your project.
 
 This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
 - The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
@@ -244,12 +173,12 @@ This project is released under the terms of the **MIT License**, which permits u
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/PRG-Gold-Tier-Template) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/Dark-Castle-Theme/main) <br>
 
 ---------------
 
 <div align="center">
-    <a href="https://github.com/scottgriv/PRG-Gold-Tier-Template" target="_blank">
+    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
         <img src="./docs/images/icon-gold-rounded.png" width="100" height="100"/>
     </a>
 </div>
