@@ -15,7 +15,7 @@ This file is used to connect this repository to the **PRG** project categorizati
 **Repository Tier:** Gold <br>
 **Technology:** Hex, RGB, HSL <br>
 **Category:** Multi-Platform Theme <br>
-**Order:** 6 <br>
+**Order:** 2 <br>
 
 ## Parameters
 

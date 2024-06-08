@@ -1,10 +1,12 @@
 <!-- Begin README -->
 
-[![Banner Large](./docs/images/banner_large-gold.png)](https://github.com/scottgriv/PRG-Personal-Repository-Guidelines)
-
+<div align="center">
+    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+        <img src="./docs/images/banner_large-gold.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
+    </a>
+</div>
+<br>
 <p align="center">
-    <a href="https://daringfireball.net/projects/markdown/"><img src="https://img.shields.io/badge/Markdown-1.0.1-000000?style=for-the-badge&logo=markdown" alt="Markdown Badge" /></a>
-    <br>
     <a href="https://github.com/scottgriv"><img src="https://img.shields.io/badge/github-follow_me-181717?style=for-the-badge&logo=github&color=181717" alt="GitHub Badge" /></a>
     <a href="mailto:scott.grivner@gmail.com"><img src="https://img.shields.io/badge/gmail-contact_me-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" /></a>
     <a href="https://www.buymeacoffee.com/scottgriv"><img src="https://img.shields.io/badge/buy_me_a_coffee-support_me-FFDD00?style=for-the-badge&logo=buymeacoffee&color=FFDD00" alt="BuyMeACoffee Badge" /></a>
@@ -16,15 +18,17 @@
 
 <h1 align="center">🏰 Dark Castle Theme</img></h1>
 
-> [!NOTE]
-> I will be using examples from my project [River Charts](https://github.com/scottgriv/River-Charts) throughout this `README` template.
+**Dark Castle** is a sophisticated and elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
-- The description should be a short paragraph describing what your project is and what it does.
-- This should be the first section after the badges.
-    - e.g. "A Python, Django, Plotly, and Pandas web application that visualizes river data pulled using an API from the United States Geological Survey (USGS)."
-- Add **screenshots** of your project below the description and throughout the rest of the README as needed.
-    - This is optional, but highly recommended especially for **Gold** projects.
-    - Animations in the form of GIFs are also a great way to showcase your project.
+
+Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.):
+1. [VSCode](themes/vscode/)
+2. [Xcode](themes/xcode/)
+3. [Obsidian](themes/obsidian/)
+4. [Notepad++](themes/notepad-plus-plus/)
+5. [BBEdit](themes/bbedit/)
+6. [Warp](themes/warp/)
+6. [Sketch](themes/sketch/)
 
 ---------------
 
@@ -32,148 +36,157 @@
 
 - [Features](#features)
 - [Background Story](#background-story)
-- [Definitions](#definitions)
-- [Getting Started](#getting-started)
-    - [Dependencies](#dependencies)
-    - [Configuration](#configuration)
-    - [Installation](#installation)
-    - [Deployment](#deployment)
-- [Specific Project Sections](#specific-project-sections)
-- [What's Inside?](#whats-inside)
-- [Closing](#closing)
-- [What's Next?](#whats-next)
+- [Installation](#installation)
+- [Color Palette](#color-palette)
+- [FAQ](#faq)
 - [Project](#project)
+- [Discussions](#discussions)
 - [Contributing](#contributing)
+- [Changelog](#changelog)
 - [Resources](#resources)
 - [License](#license)
 - [Credits](#credits)
 
 ## Features
 
-This section should contain a list of features that your project has.
+- **Subtle Background:** A dark, muted background that provides the perfect contrast for your code.
+- **Vivid Syntax Highlighting:** Carefully chosen colors for syntax highlighting that enhance readability and focus.
+- **Elegant UI Elements:** Thoughtfully designed UI components that blend seamlessly with the overall aesthetic.
+- **Enhanced Visibility:** Improved visibility for selected text, active line highlighting, and matching brackets.
+
+Whether you're coding late into the night or simply prefer a dark interface, **Dark Castle** offers a visually appealing and comfortable experience.
 
 ## Background Story
 
-The background story should be a short paragraph describing why you created the project and what inspired you to create it.
+Back in 2013, I began to grow tired of the simple dark color themes provided out of the box with my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) or [Text Editor](https://en.wikipedia.org/wiki/Text_editor) at the time. I decided to take a crack at building my own theme. The first platform I built it on was [Text Wrangler](https://www.barebones.com/products/textwrangler/), now migrated to [BBEdit](https://www.barebones.com/products/bbedit/index.html), and that original theme can be found [here](https://github.com/scottgriv/Dark-Castle-BBEdit). 
 
-## Definitions
+I was inspired to make this theme by a number of things, including video games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress), [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and [Warcraft 3](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos). Books and movies such as [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit), [Vikings](https://en.wikipedia.org/wiki/Vikings_(TV_series)), and [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), also influenced its design. Additionally, historical events and archaeological discoveries played a significant part in shaping the theme. In particular, the rich history and majestic architecture of Scottish castles like [Edinburgh Castle](https://en.wikipedia.org/wiki/Edinburgh_Castle) fueled my imagination and contributed to the overall aesthetic of the theme. 
 
-This section should contain a list of definitions for any terms that you use throughout your `README`.
-- This is especially useful for technical terms that the reader may not be familiar with.
-- e.g. Here are some definitions to help you understand the terminology used in this document:
-    - <ins><b>USGS</b></ins>: The United States Geological Survey. The USGS is a science organization that provides impartial information on the health of our ecosystems and environment, the natural hazards that threaten us, the natural resources we rely on, the impacts of climate and land-use change, and the core science systems that help us provide timely, relevant, and useable information.
-        - [USGS](https://www.usgs.gov/)
-    - <ins><b>Gage Height</b></ins>: The height of the water surface above the gage datum (zero point). Gage height is often used interchangeably with the more general term, stage, although gage height is more appropriate when used with a gage reading. Stage is more appropriate when used with a recorded or calculated gage height.
-        - [Gage Height](https://waterdata.usgs.gov/blog/gage_height/)
+For over a decade, I hoarded this theme for myself, but now I've decided to give it to the world, which brings you here right now. Enjoy! 😀
 
-## Getting Started
+## Installation
 
-This section should contain a list of steps to get your project up and running.
-- You can break this section down into further subsections if you want (such as below: Dependencies, Configuration, Running Locally, Deployment, etc.).
-- Otherwise, you can just include a list of steps to get your project up and running under Getting Started.
+1. Reference the [themes](themes) folder for each platforms repository.
+2. Follow the `INSTALL.md` file in the root of the repository for specific instructions for said platform.
+3. Enjoy!
 
-### Dependencies
+## Color Palette
 
-- This section should contain a list of dependencies for your project.
+### Core Palette
 
-### Configuration
+These are the core colors used for backgrounds, accents, syntax, etc.
 
-- This section should contain a list of steps to configure your project.
+| Palette            | Hex       | RGB           | HSL              | Picker                                                                  |
+| ------------------ | --------- | ------------- | ---------------- | ----------------------------------------------------------------------------------- |
+| Accent             | `#FF8040` | `255, 128, 64`| `20° 100% 63%`   | ![Accent Color](https://via.placeholder.com/20/FF8040?text=+)                       |
+| Plain Text + Operators      | `#FFD580` | `255, 213, 128`| `42° 100% 75%` | ![Plain Text Color](https://via.placeholder.com/20/FFD580?text=+)                 |
+| Background              | `#000000` | `0, 0, 0`     | `0° 0% 0%`       | ![Background Color](https://via.placeholder.com/20/000000?text=+)                        |
+| Foreground + Punctuation             | `#FFFFFF` | `255, 255, 255`| `0° 0% 100%`    | ![Foreground Color](https://via.placeholder.com/20/FFFFFF?text=+)                        |
+| Black              | `#000000` | `0, 0, 0`     | `0° 0% 0%`       | ![Black Color](https://via.placeholder.com/20/000000?text=+)                        |
+| Current Line          | `#292929` | `41, 41, 41`  | `0° 0% 16%`      | ![Current Line Color](https://via.placeholder.com/20/292929?text=+)                    |
+| Selection         | `#9C9C9C` | `156, 156, 156`| `0° 0% 61%`    | ![Selection Color](https://via.placeholder.com/20/9C9C9C?text=+)                   |
+| Comments         | `#0D8501` | `13, 133, 1`  | `116° 99% 26%`   | ![Comments Color](https://via.placeholder.com/20/0D8501?text=+)                   |
+| Strings + Markdown Heading 2-6               | `#FF000F` | `255, 0, 15`  | `0° 100% 50%`    | ![Strings Color](https://via.placeholder.com/20/FF000F?text=+)                          |
+| Keywords        | `#AA1B86` | `170, 27, 134`| `315° 73% 39%`   | ![Keywords Color](https://via.placeholder.com/20/AA1B86?text=+)                  |
+| Symbols        | `#FF5503` | `255, 85, 3`  | `19° 100% 51%`   | ![Symbols Color](https://via.placeholder.com/20/FF5503?text=+)                  |
+| Variables              | `#08D220` | `8, 210, 32`  | `127° 93% 43%`   | ![Variables Color](https://via.placeholder.com/20/08D220?text=+)                        |
+| Numbers             | `#9354FF` | `147, 84, 255`| `264° 100% 67%`  | ![Numbers Color](https://via.placeholder.com/20/9354FF?text=+)                       |
+| Tags         | `#4DBCED` | `77, 188, 237`| `194° 79% 62%`  | ![Tags Color](https://via.placeholder.com/20/4DBCED?text=+)                   |
+| Definitions          | `#007B88` | `0, 123, 136` | `186° 100% 27%`  | ![Definitions Color](https://via.placeholder.com/20/007B88?text=+)                    |
+| URLs               | `#4164FF` | `65, 100, 255`| `227° 100% 63%`  | ![URLs Color](https://via.placeholder.com/20/4164FF?text=+)                         |
+| Markdown Heading 1        | `#BAE67E` | `186, 230, 126`| `79° 66% 70%`  | ![Markdown Heading 1 Color](https://via.placeholder.com/20/BAE67E?text=+)                  |
 
-### Installation
+### Full Palette
 
-- This section should contain a list of steps to install your project.
-- Utilize code blocks to show the commands needed to run your project.
-- e.g.
-    1. Clone this repository.
-    2. Create a virtual environment: `python -m venv venv`.
-    3. Install the dependencies.
-    4. Run the application: 
-        ```bash
-        python manage.py runserver
-        ```
+The above colors are also included in this palette, along with a number of other colors making up the full palette.
 
-### Deployment
+| Palette            | Hex       | RGB           | HSL              | Picker                                                                  |
+| ------------------ | --------- | ------------- | ---------------- | ----------------------------------------------------------------------------------- |
+| Black              | `#000000` | `0, 0, 0`     | `0° 0% 0%`       | ![Black Color](https://via.placeholder.com/20/000000?text=+)                        |
+| Black 02           | `#1A1A1A` | `26, 26, 26`  | `0° 0% 10%`      | ![Black 02 Color](https://via.placeholder.com/20/1A1A1A?text=+)                     |
+| White              | `#FFFFFF` | `255, 255, 255`| `0° 0% 100%`    | ![White Color](https://via.placeholder.com/20/FFFFFF?text=+)                        |
+| Gray               | `#575757` | `87, 87, 87`  | `0° 0% 34%`      | ![Gray Color](https://via.placeholder.com/20/575757?text=+)                         |
+| Red                | `#FF000F` | `255, 0, 15`  | `0° 100% 50%`    | ![Red Color](https://via.placeholder.com/20/FF000F?text=+)                          |
+| Orange             | `#FF8040` | `255, 128, 64`| `20° 100% 63%`   | ![Orange Color](https://via.placeholder.com/20/FF8040?text=+)                       |
+| Yellow             | `#DFC200` | `223, 194, 0` | `52° 100% 44%`   | ![Yellow Color](https://via.placeholder.com/20/DFC200?text=+)                       |
+| Green              | `#08D220` | `8, 210, 32`  | `127° 93% 43%`   | ![Green Color](https://via.placeholder.com/20/08D220?text=+)                        |
+| Blue               | `#4164FF` | `65, 100, 255`| `227° 100% 63%`  | ![Blue Color](https://via.placeholder.com/20/4164FF?text=+)                         |
+| Purple             | `#9354FF` | `147, 84, 255`| `264° 100% 67%`  | ![Purple Color](https://via.placeholder.com/20/9354FF?text=+)                       |
+| Pink               | `#FF3399` | `255, 51, 153`| `330° 100% 60%`  | ![Pink Color](https://via.placeholder.com/20/FF3399?text=+)                         |
+| Light Gray         | `#9C9C9C` | `156, 156, 156`| `0° 0% 61%`    | ![Light Gray Color](https://via.placeholder.com/20/9C9C9C?text=+)                   |
+| Light Red          | `#EF6B73` | `239, 107, 115`| `356° 79% 68%` | ![Light Red Color](https://via.placeholder.com/20/EF6B73?text=+)                    |
+| Light Yellow       | `#FFD580` | `255, 213, 128`| `42° 100% 75%` | ![Light Yellow Color](https://via.placeholder.com/20/FFD580?text=+)                 |
+| Light Green        | `#BAE67E` | `186, 230, 126`| `79° 66% 70%`  | ![Light Green Color](https://via.placeholder.com/20/BAE67E?text=+)                  |
+| Light Blue         | `#4DBCED` | `77, 188, 237`| `194° 79% 62%`  | ![Light Blue Color](https://via.placeholder.com/20/4DBCED?text=+)                   |
+| Light Purple       | `#D8BFD8` | `216, 191, 216`| `300° 25% 80%` | ![Light Purple Color](https://via.placeholder.com/20/D8BFD8?text=+)                 |
+| Dark Gray          | `#292929` | `41, 41, 41`  | `0° 0% 16%`      | ![Dark Gray Color](https://via.placeholder.com/20/292929?text=+)                    |
+| Dark Red           | `#AA0000` | `170, 0, 0`   | `0° 100% 33%`    | ![Dark Red Color](https://via.placeholder.com/20/AA0000?text=+)                     |
+| Dark Orange        | `#FF5503` | `255, 85, 3`  | `19° 100% 51%`   | ![Dark Orange Color](https://via.placeholder.com/20/FF5503?text=+)                  |
+| Dark Yellow        | `#DDAB13` | `221, 171, 19`| `44° 85% 47%`    | ![Dark Yellow Color](https://via.placeholder.com/20/DDAB13?text=+)                  |
+| Dark Green         | `#0D8501` | `13, 133, 1`  | `116° 99% 26%`   | ![Dark Green Color](https://via.placeholder.com/20/0D8501?text=+)                   |
+| Dark Blue          | `#2D449B` | `45, 68, 155` | `228° 56% 39%`   | ![Dark Blue Color](https://via.placeholder.com/20/2D449B?text=+)                    |
+| Dark Purple        | `#AA1B86` | `170, 27, 134`| `315° 73% 39%`   | ![Dark Purple Color](https://via.placeholder.com/20/AA1B86?text=+)                  |
+| Dark Teal          | `#007B88` | `0, 123, 136` | `186° 100% 27%`  | ![Dark Teal Color](https://via.placeholder.com/20/007B88?text=+)                    |
 
-- This section should contain a list of steps to deploy your project.
+## FAQ
 
-## What's Inside?
+###### "Are you going to support editor X?"
 
-This section should contain a list of files and folders in your project and what each one does.
-- Generally, you should only list the main files and folders in your project, not every single file.
-- Use a **tree diagram** to show the relationship between files and folders:
-- e.g. 
-    ```bash
-    ├── README.md # This file.
-    ├── config.py # A file that contains sensitive information (excluded from this repository).
-    ├── manage.py # A command-line utility that lets you interact with this Django project in various ways.
-    ├── requirements.txt # A list of Python packages required to run this project.
-    ├── static # A directory for static files that are used in this Django project.
-    │   ├── css # A directory for CSS files.
-    │   │   └── styles.css # A CSS file that contains the styles for the application.
-    │   ├── data # A directory for data files.
-    │   │   └── river_charts.csv # A CSV file that contains the float dates for the application.
-    │   └── images # A directory for image files.
-    ├── templates # A directory for HTML templates.
-    │   └── river_charts # A directory for HTML templates specific to the river_charts app.
-    │       ├── error.html # An HTML template that displays an error message.
-    │       └── index.html # An HTML template that displays the application.
-    ├── views.py # A file that contains the application logic.
-    ├── VERSION # A file that contains the current version of the application.
-    ├── LICENSE # A file that contains the license for this project.
-    └── CREDITS # A file that contains the credits for this project.
-    ```
+Hopefully!, but I need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than I am. So give it a try first!
 
-## Specific Project Sections
+###### "How do I submit a new theme?"
 
-There should be a number of sections here that correspond to important aspects of your project.
-- Do not name this section "Specific Project Sections".
-- e.g. "API", "Database", "Deployment", "Testing", etc.
+If you would like to contribute and port over **Dark Castle** to a missing platform:
+1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
+2. Build the new theme using the [Color Palette](#color-palette) above.
+3. Follow the [Contributing](#contributing) guidelines.
+4. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, I will move the repository under the **Dark Castle** main repository.
 
-## Closing
-
-This section should contain a short paragraph thanking the reader for taking the time to read your `README`.
-
-## What's Next?
-
-This section should contain a list of features you plan to add to your project in the future.
-
-e.g.
-- [X] Release v1.0.0 of **River Charts**.
-- [ ] Enhance API call performance.
+> [!NOTE]
+> In the future, if the theme grows, I may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
 
 ## Project
 
-This section should contain a link to the project's website or a link to the project's repository.
+Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/14) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
+- Issues and Enhancements will also be tracked there as well.
+
+## Discussions
+
+Please join the [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Theme/discussions) to discuss this project!
+- Issues and Enhancements will be discussed there as well.
 
 ## Contributing
 
-This section should contain a list of steps for contributing to your project.
-- You can also include a link to a separate `CONTRIBUTING.md` file.
-    - e.g. [CONTRIBUTING.md](./.github/CONTRIBUTING.md)
-    - Use a contributing generator like [Contributing-Gen](https://generator.contributing.md/#) to create your `CONTRIBUTING.md` file.
+Please reference the [CONTRIBUTING](.github/CONTRIBUTING.md) file in this repository for more details.
+
+## Changelog
+
+The [CHANGELOG](.github/CHANGELOG.md) is available on the release page in each theme's repository, as well as the overall Changelog located [here](.github/CHANGELOG.md)
 
 ## Resources
 
 Below are some external resources I found helpful when creating **Dark Castle**:
 
-- [Python](https://www.python.org/) - An interpreted, high-level and general-purpose programming language.
-- [Plotly](https://plotly.com/python/) - A Python graphing library that makes interactive, publication-quality graphs online.
-- [Django](https://www.djangoproject.com/) - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
-- [Pandas](https://pandas.pydata.org/) - A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+- [Dracula Theme](https://draculatheme.com/)
+- [Color Wheel Picker](https://rgbacolorpicker.com/color-wheel-picker)
+- [CSS Tricks on Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)  
+- [ColorHexa](https://www.colorhexa.com/)
+- [Base16](https://github.com/chriskempson/base16)
 
 ## License
 
 This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
 - The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
-- For more details, see the [LICENSE](LICENSE) file in this repository. in this repository.
+- For more details and to understand all requirements and conditions, see the [LICENSE](LICENSE) file in this repository.
 
 ## Credits
+
+- [Dracula Theme](https://draculatheme.com/): for providing their open source theme, templates, install instructions, and overall theme structure. I owe a lot to the Dracula Team for making an awesome open source theme that inspired me to make my own.
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
 **Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/Dark-Castle-Theme/main) <br>
+**Reference:** [Main Branch](https://github.com/scottgriv/Dark-Castle-Theme) <br>
 
 ---------------
 
