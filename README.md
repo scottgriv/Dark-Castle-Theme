@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/PRG-Personal-Repository-Guidelines" target="_blank">
+    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
         <img src="./docs/images/banner_large-gold.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
     </a>
 </div>
