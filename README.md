@@ -139,8 +139,9 @@ Hopefully!, but I need your help to accomplish that. Since you're already using 
 If you would like to contribute and port over **Dark Castle** to a missing platform:
 1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
 2. Build the new theme using the [Color Palette](#color-palette) above.
-3. Follow the [Contributing](#contributing) guidelines.
-4. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, I will move the repository under the **Dark Castle** main repository.
+3. Use the provided code samples located in the [samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
+4. Follow the [Contributing](#contributing) guidelines.
+5. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, I will move the repository under the **Dark Castle** main repository.
 
 > [!NOTE]
 > In the future, if the project grows, I may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
