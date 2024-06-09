@@ -1,15 +1,15 @@
 [submodule "vscode"]
 	path = themes/vscode
 	url = https://github.com/scottgriv/Dark-Castle-VSCode
-[submodule "obsidian"]
-	path = themes/obsidian
-	url = https://github.com/scottgriv/Dark-Castle-Obsidian
-[submodule "xcode"]
-	path = themes/xcode
-	url = https://github.com/scottgriv/Dark-Castle-Xcode
 [submodule "notepad-plus-plus"]
 	path = themes/notepad-plus-plus
 	url = https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus
+[submodule "xcode"]
+	path = themes/xcode
+	url = https://github.com/scottgriv/Dark-Castle-Xcode
+[submodule "obsidian"]
+	path = themes/obsidian
+	url = https://github.com/scottgriv/Dark-Castle-Obsidian
 [submodule "bbedit"]
 	path = themes/bbedit
 	url = https://github.com/scottgriv/Dark-Castle-BBEdit
@@ -19,3 +19,6 @@
 [submodule "sketch"]
 	path = themes/sketch
 	url = https://github.com/scottgriv/Dark-Castle-Sketch
+[submodule "wallpaper"]
+	path = themes/wallpaper
+	url = https://github.com/scottgriv/Dark-Castle-Wallpaper

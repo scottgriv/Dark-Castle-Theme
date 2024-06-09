@@ -1,4 +1,4 @@
-# Code of Conduct - Dark-Castle-Theme
+# Code of Conduct - Dark Castle Theme
 
 ## Our Pledge
 

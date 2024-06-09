@@ -2,7 +2,7 @@
 
 <div align="center">
     <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
-        <img src="./docs/images/banner_large-gold.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
+        <img src="./docs/images/banner_large.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
     </a>
 </div>
 <br>
@@ -16,19 +16,22 @@
 
 ---------------
 
-<h1 align="center">🏰 Dark Castle Theme 🌲</img></h1>
+<h1 align="center">🏰 Dark Castle Theme 🌲</h1>
+<h3 align="center">One theme to rule them all...</h3>
 
 **Dark Castle** is a sophisticated and elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
+![Screenshot](./docs/images/screenshot.png)
 
 Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.):
-1. [VSCode](themes/vscode/)
+1. [Visual Studio Code](themes/vscode/)
+4. [Notepad++](themes/notepad-plus-plus/)
 2. [Xcode](themes/xcode/)
 3. [Obsidian](themes/obsidian/)
-4. [Notepad++](themes/notepad-plus-plus/)
 5. [BBEdit](themes/bbedit/)
 6. [Warp](themes/warp/)
-6. [Sketch](themes/sketch/)
+7. [Sketch](themes/sketch/)
+8. [Wallpaper](themes/wallpaper/)
 
 ---------------
 
@@ -58,7 +61,7 @@ Whether you're coding late into the night or simply prefer a dark interface, **D
 
 ## Background Story
 
-Back in 2013, I began to grow tired of the simple dark color themes provided out of the box with my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) or [Text Editor](https://en.wikipedia.org/wiki/Text_editor) at the time. I decided to take a crack at building my own theme. The first platform I built it on was [Text Wrangler](https://www.barebones.com/products/textwrangler/), now migrated to [BBEdit](https://www.barebones.com/products/bbedit/index.html), and that original theme can be found [here](https://github.com/scottgriv/Dark-Castle-BBEdit). 
+Back in 2013, I ([Scott G.](https://github.com/scottgriv)) began to grow tired of the simple dark color themes provided out of the box with my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) or [Text Editor](https://en.wikipedia.org/wiki/Text_editor) at the time. I decided to take a crack at building my own theme. The first platform I built it on was [Text Wrangler](https://www.barebones.com/products/textwrangler/), now migrated to [BBEdit](https://www.barebones.com/products/bbedit/index.html), and that original theme can be found [here](https://github.com/scottgriv/Dark-Castle-BBEdit). 
 
 I was inspired to make this theme by a number of things, including video games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress), [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and [Warcraft 3](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos). Books and movies such as [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit), [Vikings](https://en.wikipedia.org/wiki/Vikings_(TV_series)), and [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), also influenced its design. Additionally, historical events and archaeological discoveries played a significant part in shaping the theme. In particular, the rich history and majestic architecture of Scottish castles like [Edinburgh Castle](https://en.wikipedia.org/wiki/Edinburgh_Castle) fueled my imagination and contributed to the overall aesthetic of the theme. 
 
@@ -131,23 +134,32 @@ The above colors are also included in this palette, along with a number of other
 
 ###### "Are you going to support editor X?"
 
-Hopefully!, but I need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than I am. So give it a try first!
+Hopefully!, but we need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than we are. So give it a try first!
 
 ###### "How do I submit a new theme?"
 
-If you would like to contribute and port over **Dark Castle** to a missing platform:
+If you would like to contribute to an existing theme and/or port over **Dark Castle** to a missing platform:
 1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
 2. Build the new theme using the [Color Palette](#color-palette) above.
-3. Use the provided code samples located in the [samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
-4. Follow the [Contributing](#contributing) guidelines.
-5. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, I will move the repository under the **Dark Castle** main repository.
+3. Use the provided code samples located in the [Samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
+4. Follow the [Contributing Guidelines](#contributing).
+5. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, we will move the repository under the **Dark Castle** main repository and give you rights to maintain it 😀.
 
 > [!NOTE]
-> In the future, if the project grows, I may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
+> In the future, if the project grows, we may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
+
+## Team
+
+**Dark Castle** is a project created by [Scott Griv](https://github.com/scottgriv/) with the help of [Anya E.](https://github.com/anyaenko/).
+- Each theme has its maintainer listed in the Team section of its `README`.
+
+| [![Scott Griv](https://github.com/scottgriv.png?size=100)](https://github.com/scottgriv) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)       
 
 ## Project
 
-Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/14) tab inside this repository to get a good understanding of where I'm currently at with the overall project.
+Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/14) tab inside this repository to get a good understanding of where we're currently at with the overall project.
 - Issues and Enhancements will also be tracked there as well.
 
 ## Discussions
@@ -157,15 +169,15 @@ Please join the [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Th
 
 ## Contributing
 
-Please reference the [CONTRIBUTING](.github/CONTRIBUTING.md) file in this repository for more details.
+Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in this repository for more details.
 
 ## Changelog
 
-The [CHANGELOG](.github/CHANGELOG.md) is available on the release page in each theme's repository, as well as the overall Changelog located [here](.github/CHANGELOG.md)
+The [Changelog](.github/CHANGELOG.md) is available on the release page in each theme's repository, as well as the overall Changelog located [here](.github/CHANGELOG.md)
 
 ## Resources
 
-Below are some external resources I found helpful when creating **Dark Castle**:
+Below are some external resources we found helpful when creating **Dark Castle**:
 
 - [Dracula Theme](https://draculatheme.com/)
 - [Color Wheel Picker](https://rgbacolorpicker.com/color-wheel-picker)
@@ -177,11 +189,11 @@ Below are some external resources I found helpful when creating **Dark Castle**:
 
 This project is released under the terms of the **MIT License**, which permits use, modification, and distribution of the code, subject to the conditions outlined in the license.
 - The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
-- For more details and to understand all requirements and conditions, see the [LICENSE](LICENSE) file in this repository.
+- For more details and to understand all requirements and conditions, see the [License](LICENSE) file in this repository.
 
 ## Credits
 
-- [Dracula Theme](https://draculatheme.com/): for providing their open source theme, templates, install instructions, and overall theme structure. I owe a lot to the Dracula Team for making an awesome open source theme that inspired me to make my own.
+- [Dracula Theme](https://draculatheme.com/): for providing their open source theme, templates, install instructions, and overall theme structure. We owe a lot to the Dracula Team for making an awesome open source theme that inspired me to make my own.
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
@@ -192,7 +204,7 @@ This project is released under the terms of the **MIT License**, which permits u
 
 <div align="center">
     <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
-        <img src="./docs/images/icon-gold-rounded.png" width="100" height="100"/>
+        <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
     </a>
 </div>
 
