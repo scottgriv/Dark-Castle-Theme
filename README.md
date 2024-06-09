@@ -82,7 +82,6 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 | Plain Text + Operators      | `#FFD580` | `255, 213, 128`| `42° 100% 75%` | ![Plain Text Color](https://via.placeholder.com/20/FFD580?text=+)                 |
 | Background              | `#000000` | `0, 0, 0`     | `0° 0% 0%`       | ![Background Color](https://via.placeholder.com/20/000000?text=+)                        |
 | Foreground + Punctuation             | `#FFFFFF` | `255, 255, 255`| `0° 0% 100%`    | ![Foreground Color](https://via.placeholder.com/20/FFFFFF?text=+)                        |
-| Black              | `#000000` | `0, 0, 0`     | `0° 0% 0%`       | ![Black Color](https://via.placeholder.com/20/000000?text=+)                        |
 | Current Line          | `#292929` | `41, 41, 41`  | `0° 0% 16%`      | ![Current Line Color](https://via.placeholder.com/20/292929?text=+)                    |
 | Selection         | `#9C9C9C` | `156, 156, 156`| `0° 0% 61%`    | ![Selection Color](https://via.placeholder.com/20/9C9C9C?text=+)                   |
 | Comments         | `#0D8501` | `13, 133, 1`  | `116° 99% 26%`   | ![Comments Color](https://via.placeholder.com/20/0D8501?text=+)                   |
