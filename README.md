@@ -69,7 +69,7 @@ For over a decade, I hoarded this theme for myself, but now I've decided to give
 
 ## Installation
 
-1. Reference the [themes](themes) folder for each platforms repository.
+1. Reference the [Themes](themes) folder for each platforms repository.
 2. Follow the `INSTALL.md` file in the root of the repository for specific instructions for said platform.
 3. Enjoy!
 
