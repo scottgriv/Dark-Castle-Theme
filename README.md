@@ -175,7 +175,7 @@ Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in 
 
 ## Changelog
 
-The [Changelog](.github/CHANGELOG.md) is available on the release page in each theme's repository, as well as the overall Changelog located [here](.github/CHANGELOG.md)
+The Changelog is available in the `.github` folder in each theme's repository.
 
 ## Resources
 
