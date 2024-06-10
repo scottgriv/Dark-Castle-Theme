@@ -22,3 +22,27 @@
 [submodule "wallpaper"]
 	path = themes/wallpaper
 	url = https://github.com/scottgriv/Dark-Castle-Wallpaper
+[submodule "themes/vscode"]
+	path = themes/vscode
+	url = https://github.com/scottgriv/Dark-Castle-VSCode
+[submodule "themes/notepad-plus-plus"]
+	path = themes/notepad-plus-plus
+	url = https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus
+[submodule "themes/xcode"]
+	path = themes/xcode
+	url = https://github.com/scottgriv/Dark-Castle-Xcode
+[submodule "themes/obsidian"]
+	path = themes/obsidian
+	url = https://github.com/scottgriv/Dark-Castle-Obsidian
+[submodule "themes/bbedit"]
+	path = themes/bbedit
+	url = https://github.com/scottgriv/Dark-Castle-BBEdit
+[submodule "themes/warp"]
+	path = themes/warp
+	url = https://github.com/scottgriv/Dark-Castle-Warp
+[submodule "themes/sketch"]
+	path = themes/sketch
+	url = https://github.com/scottgriv/Dark-Castle-Sketch
+[submodule "themes/wallpaper"]
+	path = themes/wallpaper
+	url = https://github.com/scottgriv/Dark-Castle-Wallpaper
