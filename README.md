@@ -173,7 +173,7 @@ This project is released under the terms of the **MIT License**, which permits u
 
 ## Credits
 
-- [Dracula Theme](https://draculatheme.com/): for providing their open source theme, templates, install instructions, and overall theme structure. We owe a lot to the Dracula Team for making an awesome open source theme that inspired me to make my own.
+- [Dracula Theme](https://draculatheme.com/): for providing their open-source theme, templates, install instructions, and overall theme structure. We owe a lot to the Dracula Team for making an awesome open-source theme that inspired us to make our own. Not to mention, they seemingly cracked the code on how to properly manage multiple platform themes, which is why our structure is similar to theirs (including the install instructions). We cannot thank the Dracula Team and their contributors enough for paving the road for our theme.
 
 **Author:** [Scott Grivner](https://github.com/scottgriv) <br>
 **Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
