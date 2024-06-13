@@ -19,7 +19,7 @@
 <h1 align="center">🏰 Dark Castle Theme 🌲</h1>
 <h3 align="center">One theme to rule them all...</h3>
 
-**Dark Castle** is a sophisticated and elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
+**Dark Castle** is a vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
 ![Screenshot](./docs/images/screenshot.png)
 
