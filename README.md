@@ -87,10 +87,10 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 | Current Line Highlight           | `#292929` | `41, 41, 41`    | `0° 0% 16%`     | ![Current Line Color](https://via.placeholder.com/20/292929?text=+)       |
 | Word Highlight                   | `#575757` | `87, 87, 87`    | `0° 0% 34%`     | ![Word Highlight Color](https://via.placeholder.com/20/575757?text=+)     |
 | Borders, Icons, & Menu Text      | `#9C9C9C` | `156, 156, 156` | `0° 0% 61%`     | ![Selection Color](https://via.placeholder.com/20/9C9C9C?text=+)          |
-| Foreground & Punctuation         | `#FFFFFF` | `255, 255, 255` | `0° 0% 100%`    | ![Foreground Color](https://via.placeholder.com/20/FFFFFF?text=+)         |
+| Punctuation         | `#FFFFFF` | `255, 255, 255` | `0° 0% 100%`    | ![Puncuation Color](https://via.placeholder.com/20/FFFFFF?text=+)         |
 | Errors                           | `#EF6B73` | `239, 107, 115` | `356° 79% 68%`  | ![Errors Color](https://via.placeholder.com/20/EF6B73?text=+)             |
 | Accent                           | `#FF8040` | `255, 128, 64`  | `20° 100% 63%`  | ![Accent Color](https://via.placeholder.com/20/FF8040?text=+)             |
-| Plain Text & Operators & Symbols | `#FFD580` | `255, 213, 128` | `42° 100% 75%`  | ![Plain Text Color](https://via.placeholder.com/20/FFD580?text=+)         |
+| Foreground, Plain Text, Operators, & Symbols | `#FFD580` | `255, 213, 128` | `42° 100% 75%`  | ![Plain Text Color](https://via.placeholder.com/20/FFD580?text=+)         |
 | Markdown Heading 1               | `#BAE67E` | `186, 230, 126` | `79° 66% 70%`   | ![Markdown Heading 1 Color](https://via.placeholder.com/20/BAE67E?text=+) |
 | Tags & REGEX                     | `#4DBCED` | `77, 188, 237`  | `194° 79% 62%`  | ![Tags Color](https://via.placeholder.com/20/4DBCED?text=+)               |
 | Strings & Markdown Heading 2-6   | `#FF000F` | `255, 0, 15`    | `0° 100% 50%`   | ![Strings Color](https://via.placeholder.com/20/FF000F?text=+)            |
