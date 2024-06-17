@@ -14,6 +14,10 @@
 	path = themes/obsidian
 	url = https://github.com/scottgriv/Dark-Castle-Obsidian
 	branch = main
+[submodule "mysql-workbench"]
+	path = themes/mysql-workbench
+	url = https://github.com/scottgriv/Dark-Castle-MySQL-Workbench
+	branch = main
 [submodule "bbedit"]
 	path = themes/bbedit
 	url = https://github.com/scottgriv/Dark-Castle-BBEdit
@@ -22,43 +26,23 @@
 	path = themes/warp
 	url = https://github.com/scottgriv/Dark-Castle-Warp
 	branch = main
+[submodule "terminal-app"]
+	path = themes/terminal-app
+	url = https://github.com/scottgriv/Dark-Castle-Terminal-App
+	branch = main
+[submodule "swiftui"]
+	path = themes/swiftui
+	url = https://github.com/scottgriv/Dark-Castle-SwiftUI
+	branch = main
 [submodule "sketch"]
 	path = themes/sketch
 	url = https://github.com/scottgriv/Dark-Castle-Sketch
 	branch = main
+[submodule "figma"]
+	path = themes/figma
+	url = https://github.com/scottgriv/Dark-Castle-Figma
+	branch = main
 [submodule "wallpaper"]
-	path = themes/wallpaper
-	url = https://github.com/scottgriv/Dark-Castle-Wallpaper
-	branch = main
-[submodule "themes/vscode"]
-	path = themes/vscode
-	url = https://github.com/scottgriv/Dark-Castle-VSCode
-	branch = main
-[submodule "themes/notepad-plus-plus"]
-	path = themes/notepad-plus-plus
-	url = https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus
-	branch = main
-[submodule "themes/xcode"]
-	path = themes/xcode
-	url = https://github.com/scottgriv/Dark-Castle-Xcode
-	branch = main
-[submodule "themes/obsidian"]
-	path = themes/obsidian
-	url = https://github.com/scottgriv/Dark-Castle-Obsidian
-	branch = main
-[submodule "themes/bbedit"]
-	path = themes/bbedit
-	url = https://github.com/scottgriv/Dark-Castle-BBEdit
-	branch = main
-[submodule "themes/warp"]
-	path = themes/warp
-	url = https://github.com/scottgriv/Dark-Castle-Warp
-	branch = main
-[submodule "themes/sketch"]
-	path = themes/sketch
-	url = https://github.com/scottgriv/Dark-Castle-Sketch
-	branch = main
-[submodule "themes/wallpaper"]
 	path = themes/wallpaper
 	url = https://github.com/scottgriv/Dark-Castle-Wallpaper
 	branch = main

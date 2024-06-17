@@ -29,10 +29,14 @@ Currently, **Dark Castle** is supported for the following platforms (IDEs, Text 
 2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
 3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
 4. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
-5. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
-6. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
-7. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-8. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+5. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
+6. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
+7. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
+8. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
+9. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
+10. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
+11. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
+12. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
 
 ---
 
