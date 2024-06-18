@@ -70,6 +70,8 @@ Back in 2013, I ([Scott Griv](https://github.com/scottgriv)) began to grow tired
 
 I was inspired to make this theme by a number of things, including video games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress), [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and [Warcraft 3](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos). Books and movies such as [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit), [Vikings](<https://en.wikipedia.org/wiki/Vikings_(TV_series)>), and [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), also influenced its design. Additionally, historical events and archaeological discoveries played a significant part in shaping the theme. In particular, the rich history and majestic architecture of Scottish castles like [Edinburgh Castle](https://en.wikipedia.org/wiki/Edinburgh_Castle) fueled my imagination and contributed to the overall aesthetic of the theme.
 
+Yeah... a lot of nerdy stuff. I know 😆
+
 For over a decade, I hoarded this theme for myself, but now I've decided to give it to the world and open source it, which brings you here right now.
 
 I started out with some of my most used platforms and hope to add more over time, and maybe get some help from the OSS community to help me port more over if others end up liking it as well. Enjoy! 😀
