@@ -46,11 +46,11 @@
 	path = themes/swiftui
 	url = https://github.com/scottgriv/Dark-Castle-SwiftUI
 	branch = main
-[submodule "themes/windows-terminal"]
+[submodule "windows-terminal"]
 	path = themes/windows-terminal
 	url = https://github.com/scottgriv/Dark-Castle-Windows-Terminal
 	branch = main
-[submodule "themes/sublime"]
+[submodule "sublime"]
 	path = themes/sublime
 	url = https://github.com/scottgriv/Dark-Castle-Sublime
 	branch = main
