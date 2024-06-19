@@ -88,28 +88,28 @@ I started out with some of my most used platforms and hope to add more over time
 
 These are the core colors used for backgrounds, accents, syntax, etc.
 
-| Palette                          | Hex       | RGB             | HSL             | Picker                                                                    |
-| -------------------------------- | --------- | --------------- | --------------- | ------------------------------------------------------------------------- |
-| Background                       | `#000000` | `0, 0, 0`       | `0° 0% 0%`      | ![Background Color](https://via.placeholder.com/20/000000?text=+)         |
-| Code Blocks                      | `#1A1A1A` | `26, 26, 26`    | `0° 0% 10%`     | ![Code Blocks Color](https://via.placeholder.com/20/1A1A1A?text=+)        |
-| Current Line Highlight           | `#292929` | `41, 41, 41`    | `0° 0% 16%`     | ![Current Line Color](https://via.placeholder.com/20/292929?text=+)       |
-| Word Highlight                   | `#575757` | `87, 87, 87`    | `0° 0% 34%`     | ![Word Highlight Color](https://via.placeholder.com/20/575757?text=+)     |
-| Borders, Icons, & Menu Text      | `#9C9C9C` | `156, 156, 156` | `0° 0% 61%`     | ![Borders Color](https://via.placeholder.com/20/9C9C9C?text=+)          |
-| Punctuation         | `#FFFFFF` | `255, 255, 255` | `0° 0% 100%`    | ![Puncuation Color](https://via.placeholder.com/20/FFFFFF?text=+)         |
-| Errors                           | `#EF6B73` | `239, 107, 115` | `356° 79% 68%`  | ![Errors Color](https://via.placeholder.com/20/EF6B73?text=+)             |
-| Accent & Operators                           | `#FF8040` | `255, 128, 64`  | `20° 100% 63%`  | ![Accent Color](https://via.placeholder.com/20/FF8040?text=+)             |
+| Palette                                     | Hex       | RGB             | HSL             | Picker                                                                    |
+| ------------------------------------------- | --------- | --------------- | --------------- | ------------------------------------------------------------------------- |
+| Background                                  | `#000000` | `0, 0, 0`       | `0° 0% 0%`      | ![Background Color](https://via.placeholder.com/20/000000?text=+)         |
+| Code Blocks                                 | `#1A1A1A` | `26, 26, 26`    | `0° 0% 10%`     | ![Code Blocks Color](https://via.placeholder.com/20/1A1A1A?text=+)        |
+| Current Line Highlight                      | `#292929` | `41, 41, 41`    | `0° 0% 16%`     | ![Current Line Color](https://via.placeholder.com/20/292929?text=+)       |
+| Word Highlight                              | `#575757` | `87, 87, 87`    | `0° 0% 34%`     | ![Word Highlight Color](https://via.placeholder.com/20/575757?text=+)     |
+| Borders, Icons, & Menu Text                 | `#9C9C9C` | `156, 156, 156` | `0° 0% 61%`     | ![Borders Color](https://via.placeholder.com/20/9C9C9C?text=+)            |
+| Punctuation                                 | `#FFFFFF` | `255, 255, 255` | `0° 0% 100%`    | ![Puncuation Color](https://via.placeholder.com/20/FFFFFF?text=+)         |
+| Errors                                      | `#EF6B73` | `239, 107, 115` | `356° 79% 68%`  | ![Errors Color](https://via.placeholder.com/20/EF6B73?text=+)             |
+| Accent & Operators                          | `#FF8040` | `255, 128, 64`  | `20° 100% 63%`  | ![Accent Color](https://via.placeholder.com/20/FF8040?text=+)             |
 | Foreground, Plain Text, Brackets, & Symbols | `#FFD580` | `255, 213, 128` | `42° 100% 75%`  | ![Foreground Color](https://via.placeholder.com/20/FFD580?text=+)         |
-| Markdown Heading 1               | `#BAE67E` | `186, 230, 126` | `79° 66% 70%`   | ![Markdown Heading 1 Color](https://via.placeholder.com/20/BAE67E?text=+) |
-| Tags & REGEX                     | `#4DBCED` | `77, 188, 237`  | `194° 79% 62%`  | ![Tags Color](https://via.placeholder.com/20/4DBCED?text=+)               |
-| Strings & Markdown Heading 2-6   | `#FF000F` | `255, 0, 15`    | `0° 100% 50%`   | ![Classes Color](https://via.placeholder.com/20/FF000F?text=+)            |
-| Classes & Words                          | `#FF5503` | `255, 85, 3`    | `19° 100% 51%`  | ![Variables Color](https://via.placeholder.com/20/FF5503?text=+)            |
-| Variables & Characters                       | `#08D220` | `8, 210, 32`    | `127° 93% 43%`  | ![Variables Color](https://via.placeholder.com/20/08D220?text=+)          |
-| URLs                             | `#4164FF` | `65, 100, 255`  | `227° 100% 63%` | ![URLs Color](https://via.placeholder.com/20/4164FF?text=+)               |
-| Numbers                          | `#9354FF` | `147, 84, 255`  | `264° 100% 67%` | ![Numbers Color](https://via.placeholder.com/20/9354FF?text=+)            |
-| Comments                         | `#0D8501` | `13, 133, 1`    | `116° 99% 26%`  | ![Comments Color](https://via.placeholder.com/20/0D8501?text=+)           |
-| Preprocessor                     | `#007B88` | `0, 123, 136`   | `186° 100% 27%` | ![Preprocessor Color](https://via.placeholder.com/20/007B88?text=+)        |
-| Markdown Separator               | `#2D449B` | `45, 68, 155`   | `228° 56% 39%`  | ![Markdown Separator Color](https://via.placeholder.com/20/2D449B?text=+) |
-| Functions & Keywords                         | `#AA1B86` | `170, 27, 134`  | `315° 73% 39%`  | ![Functions Color](https://via.placeholder.com/20/AA1B86?text=+)           |
+| Markdown Heading 1                          | `#BAE67E` | `186, 230, 126` | `79° 66% 70%`   | ![Markdown Heading 1 Color](https://via.placeholder.com/20/BAE67E?text=+) |
+| Tags & REGEX                                | `#4DBCED` | `77, 188, 237`  | `194° 79% 62%`  | ![Tags Color](https://via.placeholder.com/20/4DBCED?text=+)               |
+| Strings & Markdown Heading 2-6              | `#FF000F` | `255, 0, 15`    | `0° 100% 50%`   | ![Classes Color](https://via.placeholder.com/20/FF000F?text=+)            |
+| Classes & Words                             | `#FF5503` | `255, 85, 3`    | `19° 100% 51%`  | ![Variables Color](https://via.placeholder.com/20/FF5503?text=+)          |
+| Variables & Characters                      | `#08D220` | `8, 210, 32`    | `127° 93% 43%`  | ![Variables Color](https://via.placeholder.com/20/08D220?text=+)          |
+| URLs                                        | `#4164FF` | `65, 100, 255`  | `227° 100% 63%` | ![URLs Color](https://via.placeholder.com/20/4164FF?text=+)               |
+| Numbers                                     | `#9354FF` | `147, 84, 255`  | `264° 100% 67%` | ![Numbers Color](https://via.placeholder.com/20/9354FF?text=+)            |
+| Comments                                    | `#0D8501` | `13, 133, 1`    | `116° 99% 26%`  | ![Comments Color](https://via.placeholder.com/20/0D8501?text=+)           |
+| Preprocessor                                | `#007B88` | `0, 123, 136`   | `186° 100% 27%` | ![Preprocessor Color](https://via.placeholder.com/20/007B88?text=+)       |
+| Markdown Separator                          | `#2D449B` | `45, 68, 155`   | `228° 56% 39%`  | ![Markdown Separator Color](https://via.placeholder.com/20/2D449B?text=+) |
+| Functions & Keywords                        | `#AA1B86` | `170, 27, 134`  | `315° 73% 39%`  | ![Functions Color](https://via.placeholder.com/20/AA1B86?text=+)          |
 
 > Reference the [Full Color Palette](./docs/PALETTE.md) for the names used for the colors above and lesser colors not listed as well.
 
