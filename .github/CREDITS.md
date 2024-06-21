@@ -9,7 +9,7 @@ This project owes its success to the following people and organizations:
 
 ## Special Thanks
 
-- [Dracula Theme](https://draculatheme.com/): for providing their open source theme, templates, install instructions, and overall theme structure. I owe a lot to the Dracula Team for making an awesome open source theme that inspired me to make my own.
+- [Dracula Theme](https://draculatheme.com/): for providing their open-source theme, templates, install instructions, and overall theme structure. We owe a lot to the Dracula Team for making an awesome open-source theme that inspired us to make our own. Not to mention, they seemingly cracked the code on how to properly manage multiple platform themes, which is why our structure is similar to theirs (including the install instructions). We cannot thank the Dracula Team and their contributors enough for paving the road for our theme.
 
 ## License
 

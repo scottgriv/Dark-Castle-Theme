@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
+    <a href="https://darkcastle.netlify.app" target="_blank">
         <img src="./docs/images/banner_large.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
     </a>
 </div>
@@ -25,20 +25,21 @@
 
 Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.):
 
-1. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
-2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
-3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
-4. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
-5. [Sublime](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme)
-6. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
-7. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
-8. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
-9. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
-10. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
-11. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
-12. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-13. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
-14. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+1. [Dark Castle Website](https://darkcastle.netlify.app)
+2. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
+3. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
+4. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
+5. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
+6. [Sublime](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme)
+7. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
+8. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
+9. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
+10. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
+11. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
+12. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
+13. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
+14. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
+15. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
 
 ---
 
@@ -48,14 +49,12 @@ Currently, **Dark Castle** is supported for the following platforms (IDEs, Text 
 - [Background Story](#background-story)
 - [Installation](#installation)
 - [Color Palette](#color-palette)
-- [FAQ](#faq)
-- [Project](#project)
-- [Discussions](#discussions)
+- [Team](#team)
 - [Contributing](#contributing)
 - [Changelog](#changelog)
 - [Resources](#resources)
-- [License](#license)
 - [Credits](#credits)
+- [License](#license)
 
 ## Features
 
@@ -76,12 +75,12 @@ Yeah... a lot of nerdy stuff. I know 😆
 
 For over a decade, I hoarded this theme for myself, but now I've decided to give it to the world and open source it, which brings you here right now.
 
-I started out with some of my most used platforms and hope to add more over time, and maybe get some help from the OSS community to help me port more over if others end up liking it as well. Enjoy! 😀
+I started out with some of my most used platforms and hope to add more over time, and maybe get some help from the OSS community to help me create more, if others end up enjoying it as much as I have. Enjoy! 😀
 
 ## Installation
 
-1. Reference the [Themes](themes) folder for each platforms repository.
-2. Follow the `INSTALL.md` file in the root of the repository for specific instructions for said platform.
+1. Reference the [Themes](themes) folder for each platforms repository (or by clicking the links above).
+2. Follow the **Install** file (`INSTALL.md`) in the root of the repository for specific instructions for said platform.
 3. Enjoy!
 
 ## Color Palette
@@ -114,25 +113,6 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 > Reference the [Full Color Palette](./docs/PALETTE.md#full-color-palette) for the names used for the colors above and lesser colors not listed as well.
 > You can also find the [Markdown Color Palette](./docs/PALETTE.md#full-color-palette) there as well.
 
-## FAQ
-
-###### "Are you going to support editor X?"
-
-Hopefully!, but we need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than we are. So give it a try first!
-
-###### "How do I submit a new theme?"
-
-If you would like to contribute to an existing theme and/or port over **Dark Castle** to a missing platform:
-
-1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
-2. Build the new theme using the [Color Palette](#color-palette) above.
-3. Use the provided code samples located in the [Samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
-4. Follow the [Contributing Guidelines](#contributing).
-5. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, we will move the repository under the **Dark Castle** main repository and give you rights to maintain it 😀.
-
-> [!NOTE]
-> In the future, if the project grows, we may move the theme repos to its own organization and give contributors the rights to maintain their submissions (similar to Dracula's structure).
-
 ## Team
 
 **Dark Castle** is a project created by [Scott Griv](https://github.com/scottgriv/) with the help of [Anya E.](https://github.com/anyaenko/).
@@ -141,37 +121,32 @@ If you would like to contribute to an existing theme and/or port over **Dark Cas
 
 | [![Scott Griv](https://github.com/scottgriv.png?size=100)](https://github.com/scottgriv) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)                                              |
+| [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)      
 
-## Project
-
-Please reference the [GitHub Project](https://github.com/users/scottgriv/projects/14) tab inside this repository to get a good understanding of where we're currently at with the overall project.
-
-- Issues and Enhancements will also be tracked there as well.
-
-## Discussions
-
-Please join the [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Theme/discussions) to discuss this project!
-
-- Issues and Enhancements will be discussed there as well.
+> [!NOTE]
+> In the future, if the project grows, we may move the theme repos to its own organization and give contributors the rights to maintain their submissions.
 
 ## Contributing
 
-Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in this repository for more details.
+> "Are you going to support editor X?"
+
+Hopefully!, but we need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than we are. So give it a try first!
+
+> "How do I submit a new theme?"
+
+If you would like to contribute to an existing platform theme or create a new **Dark Castle** theme for a missing platform:
+
+- Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in this repository for more details.
+- Consider joining our [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Theme/discussions).
+- Check out our [GitHub Project](https://github.com/users/scottgriv/projects/14) to get a good understanding of where we're currently at with the overall project.
 
 ## Changelog
 
-The Changelog is available in the `.github` folder in each theme's repository.
+The **Changelog** is available in the `.github` folder in each theme's repository.
 
-## Resources
+## Credits
 
-Below are some external resources we found helpful when creating **Dark Castle**:
-
-- [Dracula Theme](https://draculatheme.com/)
-- [Color Wheel Picker](https://rgbacolorpicker.com/color-wheel-picker)
-- [CSS Tricks on Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
-- [ColorHexa](https://www.colorhexa.com/)
-- [Base16](https://github.com/chriskempson/base16)
+View our [Credits](.github/CREDITS.md) file for a list of acknowledgements for this project.
 
 ## License
 
@@ -179,15 +154,6 @@ This project is released under the terms of the **MIT License**, which permits u
 
 - The [MIT License](https://choosealicense.com/licenses/mit/) provides certain freedoms while preserving rights of attribution to the original creators.
 - For more details and to understand all requirements and conditions, see the [License](LICENSE) file in this repository.
-
-## Credits
-
-- [Dracula Theme](https://draculatheme.com/): for providing their open-source theme, templates, install instructions, and overall theme structure. We owe a lot to the Dracula Team for making an awesome open-source theme that inspired us to make our own. Not to mention, they seemingly cracked the code on how to properly manage multiple platform themes, which is why our structure is similar to theirs (including the install instructions). We cannot thank the Dracula Team and their contributors enough for paving the road for our theme.
-
-**Author:** [Scott Grivner](https://github.com/scottgriv) <br>
-**Email:** [scott.grivner@gmail.com](mailto:scott.grivner@gmail.com) <br>
-**Website:** [scottgrivner.dev](https://www.scottgrivner.dev) <br>
-**Reference:** [Main Branch](https://github.com/scottgriv/Dark-Castle-Theme) <br>
 
 ---
 
