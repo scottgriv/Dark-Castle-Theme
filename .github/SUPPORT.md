@@ -42,15 +42,15 @@ See [`CONTRIBUTING.md`][contributing] on how to contribute.
 
 ## License
 
-[CC-BY-4.0][license] © [@wooorm][author]
+[MIT][license]
 
 <!-- Definitions -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
+[license]: ../LICENSE
 
-[author]: https://github.com/remarkjs/.github/blob/main/support.md
+[author]: https://github.com/scottgriv/Dark-Castle-Theme/blob/main/.github/SUPPORT.md
 
-[coc]: https://github.com/remarkjs/.github/blob/main/code-of-conduct.md
+[coc]: https://github.com/scottgriv/Dark-Castle-Theme/blob/main/.github/CODE_OF_CONDUCT.md
 
 [rubberduck]: https://rubberduckdebugging.com
 
