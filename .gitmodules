@@ -54,3 +54,6 @@
 	path = themes/sublime
 	url = https://github.com/scottgriv/Dark-Castle-Sublime
 	branch = main
+[submodule "themes/iterm"]
+	path = themes/iterm
+	url = https://github.com/scottgriv/Dark-Castle-iTerm
