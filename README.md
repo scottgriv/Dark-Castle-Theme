@@ -25,17 +25,18 @@
 
 Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.):
 
-1. [Dark Castle Website](https://darkcastle.netlify.app)
-2. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
-3. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
-4. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
-5. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
-6. [Sublime](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme)
-7. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
-8. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
-9. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
-10. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
-11. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
+0. [Dark Castle Website](https://darkcastle.netlify.app)
+1. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
+2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
+3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
+4. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
+5. [Sublime](https://packagecontrol.io/packages/Dark%20Castle%20Color%20Scheme)
+6. [iTerm 2](https://github.com/scottgriv/Dark-Castle-iTerm)
+7. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
+8. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
+9. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
+10. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
+11. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
 12. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
 13. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
 14. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
@@ -111,7 +112,7 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 | Functions & Keywords                        | `#AA1B86` | `170, 27, 134`  | `315° 73% 39%`  | ![Functions Color](https://via.placeholder.com/20/AA1B86?text=+)       |
 
 > Reference the [Full Color Palette](./docs/PALETTE.md#full-color-palette) for the names used for the colors above and lesser colors not listed as well.
-> You can also find the [Markdown Color Palette](./docs/PALETTE.md#full-color-palette) there as well.
+> You can also find other specific color palettes here as well.
 
 ## Team
 
