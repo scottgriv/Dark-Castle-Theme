@@ -131,7 +131,7 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 
 > "Are you going to support editor X?"
 
-Hopefully!, but we need your help to accomplish that. Since you're already using app X you're probably much more experienced in it than we are. So give it a try first!
+Hopefully! But, we'll need your help to accomplish that. Since you're already using app X, you're probably much more experienced in it than we are. So give it a try first!
 
 > "How do I submit a new theme?"
 
