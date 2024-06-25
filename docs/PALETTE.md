@@ -11,6 +11,8 @@ A full list of colors used for **Dark Castle**.
 | Black        | `#000000` | `0, 0, 0`       | `0° 0% 0%`      | ![Black Color](https://via.placeholder.com/20/000000?text=+)        |
 | Black 02     | `#1A1A1A` | `26, 26, 26`    | `0° 0% 10%`     | ![Black 02 Color](https://via.placeholder.com/20/1A1A1A?text=+)     |
 | Dark Gray    | `#292929` | `41, 41, 41`    | `0° 0% 16%`     | ![Dark Gray Color](https://via.placeholder.com/20/292929?text=+)    |
+| Dark Gray 02 | `#333333` | `51, 51, 51`    | `0° 0% 20%`     | ![Dark Gray 02 Color](https://via.placeholder.com/20/333333?text=+) |
+| Dark Gray 03 | `#4B4740` | `75, 71, 64`    | `40° 8% 27%`    | ![Dark Gray 03 Color](https://via.placeholder.com/20/4B4740?text=+) |
 | Gray         | `#575757` | `87, 87, 87`    | `0° 0% 34%`     | ![Gray Color](https://via.placeholder.com/20/575757?text=+)         |
 | Light Gray   | `#9C9C9C` | `156, 156, 156` | `0° 0% 61%`     | ![Light Gray Color](https://via.placeholder.com/20/9C9C9C?text=+)   |
 | White        | `#FFFFFF` | `255, 255, 255` | `0° 0% 100%`    | ![White Color](https://via.placeholder.com/20/FFFFFF?text=+)        |
