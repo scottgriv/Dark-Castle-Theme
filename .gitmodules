@@ -57,3 +57,6 @@
 [submodule "themes/iterm"]
 	path = themes/iterm
 	url = https://github.com/scottgriv/Dark-Castle-iTerm
+[submodule "themes/telegram-ios"]
+	path = themes/telegram-ios
+	url = https://github.com/scottgriv/Dark-Castle-Telegram-iOS
