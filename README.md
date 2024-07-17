@@ -23,9 +23,11 @@
 
 ![Screenshot](./docs/images/screenshot.png)
 
-Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.):
+* Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.).
+* Click the following links to access each platforms repository:
 
-0. [Dark Castle Website](https://darkcastle.netlify.app)
+**Platforms**:
+
 1. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
 2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
 3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
@@ -37,10 +39,17 @@ Currently, **Dark Castle** is supported for the following platforms (IDEs, Text 
 9. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
 10. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
 11. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
-12. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
-13. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-14. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
-15. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+12. [Telegram (iOS)](https://github.com/scottgriv/Dark-Castle-Telegram-iOS)
+13. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
+14. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
+15. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
+16. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+
+**Other**:
+
+1. [Dark Castle Main (This Repository)](https://github.com/scottgriv/Dark-Castle-Theme)
+2. [Dark Castle Template](https://github.com/scottgriv/Dark-Castle-Template)
+3. [Dark Castle Website](https://github.com/scottgriv/Dark-Castle-Website)
 
 ---
 
