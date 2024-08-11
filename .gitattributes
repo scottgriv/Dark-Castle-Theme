@@ -1,1 +1,1 @@
-docs/* linguist-language=CSS
+*.css linguist-detectable=true
