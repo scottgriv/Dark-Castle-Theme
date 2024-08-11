@@ -60,3 +60,9 @@
 [submodule "themes/telegram-ios"]
 	path = themes/telegram-ios
 	url = https://github.com/scottgriv/Dark-Castle-Telegram-iOS
+[submodule "themes/template"]
+	path = themes/template
+	url = https://github.com/scottgriv/Dark-Castle-Template
+[submodule "themes/website"]
+	path = themes/website
+	url = https://github.com/scottgriv/Dark-Castle-Website
