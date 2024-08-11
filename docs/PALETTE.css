@@ -1,0 +1,99 @@
+/* Full Color Palette */
+:root {
+    --black: #000000;
+    --black-02: #1A1A1A;
+    --dark-gray: #292929;
+    --dark-gray-02: #333333;
+    --dark-gray-03: #4B4740;
+    --gray: #575757;
+    --light-gray: #9C9C9C;
+    --light-gray-02: #D7DCE2;
+    --white: #FFFFFF;
+    --light-red: #EF6B73;
+    --light-orange: #FF8040;
+    --light-yellow: #FFD580;
+    --light-green: #BAE67E;
+    --light-blue: #4DBCED;
+    --light-purple: #D8BFD8;
+    --red: #FF000F;
+    --orange: #FF5503;
+    --yellow: #DFC200;
+    --green: #08D220;
+    --green-02: #41CC45;
+    --blue: #4164FF;
+    --purple: #9354FF;
+    --pink: #FF3399;
+    --dark-red: #AA0000;
+    --dark-yellow: #DDAB13;
+    --dark-green: #0D8501;
+    --dark-teal: #007B88;
+    --dark-blue: #2D449B;
+    --dark-purple: #AA1B86;
+}
+
+/* Core Color Palette */
+:root {
+    --core-background: var(--black);
+    --core-code-blocks: var(--black-02);
+    --core-current-line: var(--dark-gray);
+    --core-word-highlight: var(--gray);
+    --core-borders-icons-menu-text: var(--light-gray);
+    --core-punctuation: var(--white);
+    --core-errors: var(--light-red);
+    --core-accent-operators: var(--light-orange);
+    --core-foreground: var(--light-yellow);
+    --core-headings: var(--light-green);
+    --core-tags-regex: var(--light-blue);
+    --core-strings: var(--red);
+    --core-classes-words: var(--orange);
+    --core-variables-characters: var(--green);
+    --core-urls: var(--blue);
+    --core-numbers: var(--purple);
+    --core-comments: var(--dark-green);
+    --core-preprocessor: var(--dark-teal);
+    --core-horizontal-rule: var(--dark-blue);
+    --core-functions-keywords: var(--dark-purple);
+}
+
+/* Markdown Color Palette */
+:root {
+    --markdown-background: var(--black);
+    --markdown-tags: var(--white);
+    --markdown-errors: var(--light-red);
+    --markdown-links-internal: var(--light-orange);
+    --markdown-plain-text: var(--light-yellow);
+    --markdown-heading-1: var(--light-green);
+    --markdown-emphasis: var(--light-blue);
+    --markdown-heading-2-6: var(--red);
+    --markdown-inline-code: var(--green);
+    --markdown-links-external: var(--blue);
+    --markdown-checkboxes: var(--purple);
+    --markdown-lists: var(--dark-teal);
+    --markdown-horizontal-rule: var(--dark-blue);
+    --markdown-blockquotes: var(--dark-purple);
+}
+
+/* Terminal Color Palette */
+:root {
+    --terminal-background: var(--black);
+    --terminal-foreground-text: var(--light-yellow);
+    --terminal-accent-cursor-bold-underline: var(--light-orange);
+    --terminal-links: var(--blue);
+    --terminal-selection: var(--gray);
+    --terminal-ansi-black-normal: var(--black-02);
+    --terminal-ansi-black-bright: var(--dark-gray);
+    --terminal-ansi-red-normal: var(--red);
+    --terminal-ansi-red-bright: var(--light-red);
+    --terminal-ansi-green-normal: var(--green);
+    --terminal-ansi-green-bright: var(--light-green);
+    --terminal-ansi-yellow-normal: var(--yellow);
+    --terminal-ansi-yellow-bright: var(--light-yellow);
+    --terminal-ansi-blue-normal: var(--dark-blue);
+    --terminal-ansi-blue-bright: var(--blue);
+    --terminal-ansi-magenta-normal: var(--dark-purple);
+    --terminal-ansi-magenta-bright: var(--purple);
+    --terminal-ansi-cyan-normal: var(--dark-teal);
+    --terminal-ansi-cyan-bright: var(--light-blue);
+    --terminal-ansi-white-normal: var(--light-gray);
+    --terminal-ansi-white-bright: var(--white);
+}
