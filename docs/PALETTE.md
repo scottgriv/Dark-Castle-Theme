@@ -58,7 +58,7 @@ The core palette, used for most `Text Editors` and `IDEs`.
 | Strings                                     | `#FF000F` | `255, 0, 15`    | `0° 100% 50%`   | ![Strings Color](https://via.placeholder.com/20/FF000F?text=+)         |
 | Classes & Words                             | `#FF5503` | `255, 85, 3`    | `19° 100% 51%`  | ![Classes Color](https://via.placeholder.com/20/FF5503?text=+)         |
 | Variables & Characters                      | `#08D220` | `8, 210, 32`    | `127° 93% 43%`  | ![Variables Color](https://via.placeholder.com/20/08D220?text=+)       |
-| URLs                                        | `#4164FF` | `65, 100, 255`  | `227° 100% 63%` | ![URLs Color](https://via.placeholder.com/20/4164FF?text=+)            |
+| Links (URLs)                                | `#4164FF` | `65, 100, 255`  | `227° 100% 63%` | ![URLs Color](https://via.placeholder.com/20/4164FF?text=+)            |
 | Numbers                                     | `#9354FF` | `147, 84, 255`  | `264° 100% 67%` | ![Numbers Color](https://via.placeholder.com/20/9354FF?text=+)         |
 | Comments                                    | `#0D8501` | `13, 133, 1`    | `116° 99% 26%`  | ![Comments Color](https://via.placeholder.com/20/0D8501?text=+)        |
 | Preprocessor                                | `#007B88` | `0, 123, 136`   | `186° 100% 27%` | ![Preprocessor Color](https://via.placeholder.com/20/007B88?text=+)    |
