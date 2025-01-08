@@ -66,3 +66,6 @@
 [submodule "themes/website"]
 	path = themes/website
 	url = https://github.com/scottgriv/Dark-Castle-Website
+[submodule "themes/calibre"]
+	path = themes/calibre
+	url = https://github.com/scottgriv/Dark-Castle-Calibre
