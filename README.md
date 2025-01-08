@@ -40,10 +40,11 @@
 10. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
 11. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
 12. [Telegram (iOS)](https://github.com/scottgriv/Dark-Castle-Telegram-iOS)
-13. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
-14. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-15. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
-16. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+13. [Calibre](https://github.com/scottgriv/Dark-Castle-Calibre)
+14. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
+15. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
+16. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
+17. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
 
 **Other**:
 
