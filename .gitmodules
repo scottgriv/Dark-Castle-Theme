@@ -69,3 +69,6 @@
 [submodule "themes/calibre"]
 	path = themes/calibre
 	url = https://github.com/scottgriv/Dark-Castle-Calibre
+[submodule "themes/ibm-i"]
+	path = themes/ibm-i
+	url = https://github.com/scottgriv/Dark-Castle-IBM-i-Green-Screen
