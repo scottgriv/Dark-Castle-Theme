@@ -4,6 +4,8 @@
 
 - [Code of Conduct](#code-of-conduct)
 - [New Themes](#new-themes)
+  - [Repository Setup](#repository-setup)
+  - [Building the Theme](#building-the-theme)
 - [Existing Themes](#existing-themes)
   - [Changes](#changes)
   - [Issues](#issues)
@@ -20,12 +22,26 @@ to <scott.grivner@gmail.com>.
 
 ## New Themes
 
-If you would like to create a new **Dark Castle** theme for a missing platform:
+If you would like to create a new **Dark Castle** theme for a missing platform, please follow the steps below:
+
+### Repository Setup
 
 1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
-2. Build the new theme using the [Color Palette](https://github.com/scottgriv/Dark-Castle-Theme#color-palette) listed on the [Main Repository](https://github.com/scottgriv/Dark-Castle-Theme).
-3. Use the provided code samples located in the [Samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
-4. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, we will move the repository under the **Dark Castle** main repository and then give you rights to maintain it 😀.
+2. Name the repository `Dark-Castle-<PLATFORM>`, replacing `<PLATFORM>` with the name of the platform you're creating the theme for (e.g., `Dark-Castle-Example`).
+3. Update the repository description (follow the template's description structure).
+4. Add the website link to the repository description: [https://darkcastle.netlify.app/](https://darkcastle.netlify.app/).
+5. Add relevant topics/tags (e.g., `dark-castle`, `theme`, `<PLATFORM>`) (follow the template's description structure) and add more relevant topics as needed).
+6. Update the `README.md` to reflect the new theme and its maintainer. 
+7. Add a `screenshot.png` image in the root of the repository, showcasing the theme in action on the target platform.
+8. Create an `INSTALL.md` file with installation instructions specific to the platform.
+9. Drop the theme files into the root of the repository (follow the [Building the Theme](#building-the-theme) section below for guidance).
+10. Optionally, add a `CHANGELOG.md` file to `.github/` directory for future changes and updates to the theme.
+
+### Building the Theme
+
+1. Build the new theme using the [Color Palette](https://github.com/scottgriv/Dark-Castle-Theme#color-palette) listed on the [Main Repository](https://github.com/scottgriv/Dark-Castle-Theme).
+2. Use the provided code samples located in the [Samples](https://github.com/scottgriv/Dark-Castle-Template/tree/main/samples) folder to develop and test the theme, then delete it when you're finished with it.
+3. Finally, [Submit an Issue (Feature Request)](https://github.com/scottgriv/Dark-Castle-Theme/issues/new?assignees=&labels=&projects=&template=feature_request.md&title=) with a link to your repository. Once the theme is accepted, we will move the repository under the **Dark Castle** main repository and then give you rights to maintain it 😀.
 
 ## Existing Themes
 
@@ -64,3 +80,4 @@ If you like the project, but just don't have time to contribute, that's fine. Th
 - Consider sponsoring the project; we're a small team and any contribution helps us go a long way with this project
 
 ***Thanks for taking the time to Contribute!***
+***Please feel free to reach out to <scott.grivner@gmail.com> with any questions.***

@@ -6,6 +6,7 @@ This project owes its success to the following people and organizations:
 
 - **[Scott Grivner](https://github.com/scottgriv)**: For creating the initial product and release.
 - **[Anya Enko](https://github.com/AnyaEnko)**: For assisting in the creation of the graphic designs for the application and feedback for the overall product.
+- **[Night Owl Labs](https://nightowllabs.io/)**: Our Company.
 
 ## Special Thanks
 

@@ -20,7 +20,14 @@
 
 **Dark Castle** is a vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
-![Screenshot](./docs/images/screenshot.png)
+<div align="center">
+    <a href="https://darkcastle.netlify.app/" target="_blank">
+        <img src="./docs/images/screenshot.png" style="width: 100%;"/>
+    </a>
+    <br>
+    <i>Dark Castle in VSCode Example.</i>
+</div>
+<br />
 
 * Currently, **Dark Castle** is supported for the following platforms (IDEs, Text Editiors, Terminals, etc.).
 * Click the following links to access each platforms repository:
@@ -39,11 +46,12 @@
 10. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
 11. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
 12. [Telegram (iOS)](https://github.com/scottgriv/Dark-Castle-Telegram-iOS)
-13. [Calibre](https://github.com/scottgriv/Dark-Castle-Calibre)
-14. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
-15. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-16. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
-17. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+13. [IBM i Green Screen](https://github.com/scottgriv/Dark-Castle-IBM-i-Green-Screen)
+14. [Calibre](https://github.com/scottgriv/Dark-Castle-Calibre)
+15. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
+16. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
+17. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
+18. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
 
 **Other**:
 
@@ -125,7 +133,7 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 
 ## Team
 
-**Dark Castle** is a project created by [Scott Griv](https://github.com/scottgriv/) with the help of [Anya E.](https://github.com/anyaenko/).
+**Dark Castle** is a project created by [Scott Griv](https://github.com/scottgriv/) with the help of [Anya E.](https://github.com/anyaenko/) of [Night Owl Labs](https://github.com/Night-Owl-Labs/).
 
 - Each theme has its maintainer listed in the Team section of its `README`.
 
