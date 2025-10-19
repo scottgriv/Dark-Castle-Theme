@@ -37,6 +37,13 @@ If you would like to create a new **Dark Castle** theme for a missing platform, 
 9. Drop the theme files into the root of the repository (follow the [Building the Theme](#building-the-theme) section below for guidance).
 10. Optionally, add a `CHANGELOG.md` file to `.github/` directory for future changes and updates to the theme.
 
+> [!NOTE]
+> If you used the template repository, most of these steps will already be done for you. You just need to update the relevant information to fit your new theme. 
+> The purpose of the template is to remove the boilerplate work so you can focus on building the theme itself.
+
+> [!IMPORTANT]
+> The above structure is important for consistency across all themes in the **Dark Castle** project. Please ensure to follow it closely.
+
 ### Building the Theme
 
 1. Build the new theme using the [Color Palette](https://github.com/scottgriv/Dark-Castle-Theme#color-palette) listed on the [Main Repository](https://github.com/scottgriv/Dark-Castle-Theme).
