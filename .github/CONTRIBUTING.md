@@ -72,6 +72,7 @@ If you have an enhancement, submit an [Issue (Feature request)](https://docs.git
 ## Questions
 
 - Consider joining our [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Theme/discussions).
+- Also, please feel free to reach out to <scott.grivner@gmail.com> with any questions you may have.
 
 ## Roadmap
 
@@ -87,4 +88,3 @@ If you like the project, but just don't have time to contribute, that's fine. Th
 - Consider sponsoring the project; we're a small team and any contribution helps us go a long way with this project
 
 ***Thanks for taking the time to Contribute!***
-***Please feel free to reach out to <scott.grivner@gmail.com> with any questions.***
