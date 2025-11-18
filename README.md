@@ -35,11 +35,11 @@
 **Platforms**:
 
 1. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
-2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
-3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
-4. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
-5. [Sublime](https://github.com/scottgriv/Dark-Castle-Sublime)
-6. [Google Chrome](https://github.com/scottgriv/Dark-Castle-Google-Chrome)
+2. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
+3. [Google Chrome](https://github.com/scottgriv/Dark-Castle-Google-Chrome)
+4. [Sublime](https://github.com/scottgriv/Dark-Castle-Sublime)
+5. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
+6. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
 7. [iTerm 2](https://github.com/scottgriv/Dark-Castle-iTerm)
 8. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
 9. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
