@@ -72,3 +72,6 @@
 [submodule "themes/ibm-i"]
 	path = themes/ibm-i
 	url = https://github.com/scottgriv/Dark-Castle-IBM-i-Green-Screen
+[submodule "themes/google-chrome"]
+	path = themes/google-chrome
+	url = https://github.com/scottgriv/Dark-Castle-Google-Chrome
