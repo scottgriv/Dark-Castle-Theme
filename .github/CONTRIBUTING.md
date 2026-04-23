@@ -29,7 +29,7 @@ If you would like to create a new **Dark Castle** theme for a missing platform, 
 1. Create a new repository based on this [Template](https://github.com/scottgriv/Dark-Castle-Template).
 2. Name the repository `Dark-Castle-<PLATFORM>`, replacing `<PLATFORM>` with the name of the platform you're creating the theme for (e.g., `Dark-Castle-Example`).
 3. Update the repository description (follow the template's description structure).
-4. Add the website link to the repository description: [https://darkcastle.netlify.app/](https://darkcastle.netlify.app/).
+4. Add the website link to the repository description: [https://darkcastletheme.com/](https://darkcastletheme.com/).
 5. Add relevant topics/tags (e.g., `dark-castle`, `theme`, `<PLATFORM>`) (follow the template's description structure) and add more relevant topics as needed).
 6. Update the `README.md` to reflect the new theme and its maintainer. 
 7. Add a `screenshot.png` image in the root of the repository, showcasing the theme in action on the target platform.

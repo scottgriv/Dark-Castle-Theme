@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://darkcastle.netlify.app" target="_blank">
+    <a href="https://darkcastletheme.com" target="_blank">
         <img src="./docs/images/banner_large.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
     </a>
 </div>
@@ -21,7 +21,7 @@
 **Dark Castle** is a vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
 <div align="center">
-    <a href="https://darkcastle.netlify.app/" target="_blank">
+    <a href="https://darkcastletheme.com/" target="_blank">
         <img src="./docs/images/screenshot.png" style="width: 100%;"/>
     </a>
     <br>
